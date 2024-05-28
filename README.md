@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Asad Shahid</h1>
 
-<h3 align="center">A passionate Laravel and Angular Developer from Pakistan.</h3>
+<h3 align="center">A passionate Laravel and Vue Developer from Pakistan.</h3>
 
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fc027217c7ed4eabf9d06dd4ebff9db62f6e4ae7&rid=giphy.gif&ct=g" alt="coding" />
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/asaadi32" target="blank"><img src="https://img.shields.io/twitter/follow/asaadi32?logo=twitter&style=for-the-badge" alt="asaadi32" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Angular**
+- 🌱 I’m currently learning **Laravel, Vue**
 
 - 💬 Ask me about **Laravel, PHP, Javascript**
 
@@ -29,7 +29,7 @@
 
 <a href="https://linkedin.com/in/asad-shahid245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad-shahid245" height="30" width="40" /></a>
 
-<a href="https://instagram.com/@asaadi32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@asaadi32" height="30" width="40" /></a>
+<a href="https://instagram.com/@asaad___i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@asaadi32" height="30" width="40" /></a>
 
 </p>
 
